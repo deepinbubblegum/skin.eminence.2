@@ -1,0 +1,1062 @@
+# XBMC Media Center language file
+# Addon Name: Eminence 2
+# Addon id: skin.eminence.2
+# Addon Provider: jurialmunkey
+msgid ""
+msgstr ""
+"Project-Id-Version: XBMC Main\n"
+"Report-Msgid-Bugs-To: http://trac.xbmc.org/\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: 0x48DeePin\n"
+"Language-Team:  (https://github.com/deepinbubblegum)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: th_TH\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#31000"
+msgid "Item"
+msgstr "รายการ"
+
+msgctxt "#31001"
+msgid "Items"
+msgstr "รายการ"
+
+msgctxt "#31002"
+msgid "Tag"
+msgstr "แท็ก"
+
+msgctxt "#31003"
+msgid "Next"
+msgstr "ต่อไป"
+
+msgctxt "#31004"
+msgid "Show shadows on panels"
+msgstr "แสดงเงาบนแผงควบคุม"
+
+msgctxt "#31005"
+msgid "Video OSD"
+msgstr "วิดีโอ OSD"
+
+msgctxt "#31006"
+msgid "Show plot when pressing info"
+msgstr "แสดงพล็อตเมื่อกดข้อมูล"
+
+msgctxt "#31007"
+msgid "Show media flags"
+msgstr "แสดงป้ายชื่อมีเดีย"
+
+msgctxt "#31008"
+msgid "Show plot overlay in after delay"
+msgstr "แสดงภาพซ้อนทับพล็อตหลังจากเกิดความล่าช้า"
+
+msgctxt "#31009"
+msgid "Open playlist"
+msgstr "เปิดเพลย์ลิส"
+
+msgctxt "#31010"
+msgid "Save playlist"
+msgstr "บันทึกเพลย์ลิส"
+
+msgctxt "#31011"
+msgid "Close playlist"
+msgstr "ปิดเพลย์ลิส"
+
+msgctxt "#31012"
+msgid "Current playlist"
+msgstr "เพลย์ลิสปัจจุบัน"
+
+msgctxt "#31013"
+msgid "Muted"
+msgstr "เงียบ"
+
+msgctxt "#31014"
+msgid "Show header"
+msgstr "แสดงส่วนหัว"
+
+msgctxt "#31015"
+msgid "Live TV"
+msgstr "ไลฟ์ TV"
+
+msgctxt "#31016"
+msgid "Show widget information"
+msgstr "แสดงข้อมูลวิดเจ็ต"
+
+msgctxt "#31017"
+msgid "Votes"
+msgstr "โหวต"
+
+msgctxt "#31018"
+msgid "Increase"
+msgstr "เพิ่มขึ้น"
+
+msgctxt "#31019"
+msgid "Decrease"
+msgstr "ลดลง"
+
+msgctxt "#31020"
+msgid "Background"
+msgstr "พื้นหลัง"
+
+msgctxt "#31021"
+msgid "Show fanart"
+msgstr "แสดงแฟนอาร์ต"
+
+#: /16x9/Viewtype_List.xml
+msgctxt "#31022"
+msgid "Media Info 3"
+msgstr "ข้อมูลสื่อ 3"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31023"
+msgid "Enable animated video lyrics"
+msgstr "เปิดใช้งานเนื้อเพลงวิดีโอภาพเคลื่อนไหว"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31024"
+msgid "Enable skin debug info"
+msgstr "เปิดใช้งานข้อมูลการดีบักของสกิน"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31025"
+msgid "Show colour diffuse overlay"
+msgstr "แสดงสีซ้อนทับแบบกระจาย"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31026"
+msgid "Show scrolling background text"
+msgstr "แสดงข้อความพื้นหลังเลื่อน"
+
+msgctxt "#31027"
+msgid "Show background video"
+msgstr "แสดงวิดีโอพื้นหลัง"
+
+msgctxt "#31028"
+msgid "Show background visualisation"
+msgstr "แสดง visualisation ภาพพื้นหลัง"
+
+#: /16x9/Includes_Label.xml
+msgctxt "#31029"
+msgid "Hub fallback widget"
+msgstr "วิดเจ็ตทางเลือก Hub"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31030"
+msgid "Watched/UnWatched Indicators"
+msgstr "Watched/UnWatched Indicators"
+
+msgctxt "#31031"
+msgid "Recent movies"
+msgstr "ภาพยนตร์ล่าสุด"
+
+msgctxt "#31032"
+msgid "Recommended movies"
+msgstr "ภาพยนตร์ที่แนะนำ"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31033"
+msgid "Watched / Unwatched Indicators"
+msgstr "Watched / Unwatched Indicators"
+
+msgctxt "#31034"
+msgid "Enable Artist Slideshow"
+msgstr "เปิดใช้งานภาพสไลด์ศิลปิน"
+
+msgctxt "#31035"
+msgid "Recent episodes"
+msgstr "ตอนล่าสุด"
+
+msgctxt "#31036"
+msgid "Recommended episodes"
+msgstr "ตอนที่แนะนำ"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31037"
+msgid "Watched (checkmark)"
+msgstr "ดูแล้ว (เครื่องหมายถูก)"
+
+msgctxt "#31038"
+msgid "Recent albums"
+msgstr "อัลบั้มล่าสุด"
+
+msgctxt "#31039"
+msgid "Recommended albums"
+msgstr "อัลบั้มแนะนำ"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31040"
+msgid "Recently added (star)"
+msgstr "เพิ่มล่าสุด (ดาว)"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31041"
+msgid "Resumable (progress circle)"
+msgstr "ทำงานต่อได้ (วงกลมความคืบหน้า)"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31042"
+msgid "Unwatched episodes (numeric counter)"
+msgstr "ตอนที่ไม่ได้ดู (ตัวนับตัวเลข)"
+
+msgctxt "#31043"
+msgid "Extra art"
+msgstr "Extra art"
+
+msgctxt "#31044"
+msgid "Local subtitle found!"
+msgstr "พบคำบรรยายท้องถิ่น!"
+
+msgctxt "#31045"
+msgid "Supplied by"
+msgstr "จัดทำโดย"
+
+msgctxt "#31046"
+msgid "Currently"
+msgstr "ปัจจุบัน"
+
+msgctxt "#31047"
+msgid "Visualisation Presets"
+msgstr "Visualisation Presets"
+
+msgctxt "#31048"
+msgid "Playlist Options"
+msgstr "ตัวเลือกเพลย์ลิสต์"
+
+msgctxt "#31049"
+msgid "Customise home menu"
+msgstr "ปรับแต่งเมนูหลัก"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31050"
+msgid "Apply highlight colour filter to background overlay"
+msgstr "ใช้ตัวกรองสีไฮไลต์กับการซ้อนทับพื้นหลัง"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31051"
+msgid "Prefer vertical context/view menus"
+msgstr "ชอบเมนูบริบท / มุมมองแนวตั้ง"
+
+msgctxt "#31052"
+msgid "Rated"
+msgstr "อันดับ"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31053"
+msgid "Show blank screen with clock when controls and info are hidden"
+msgstr "แสดงหน้าจอว่างเปล่าพร้อมนาฬิกาเมื่อตัวควบคุมและข้อมูลถูกซ่อน"
+
+msgctxt "#31054"
+msgid "Random movies"
+msgstr "ภาพยนตร์แบบสุ่ม"
+
+msgctxt "#31055"
+msgid "Random episodes"
+msgstr "สุ่มตอน"
+
+msgctxt "#31056"
+msgid "Random albums"
+msgstr "สุ่มอัลบั้ม"
+
+msgctxt "#31057"
+msgid "Kiosk mode"
+msgstr "Kiosk mode"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31058"
+msgid "Show player controls when pressing up if media playing"
+msgstr "แสดงส่วนควบคุมผู้เมื่อกดขึ้นหากเล่นสื่อ"
+
+msgctxt "#31059"
+msgid "Memory Used:"
+msgstr "หน่วยความจำที่ใช้:"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31060"
+msgid "Show top header tile and text when paused or seeking"
+msgstr "แสดงไทล์ส่วนหัวและข้อความด้านบนเมื่อหยุดชั่วคราวหรือค้นหา"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31061"
+msgid "Show clear art"
+msgstr "แสดงศิลปะที่ชัดเจน"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31062"
+msgid "Show file name and path in info dialog"
+msgstr "แสดงชื่อไฟล์และพาธในกล่องโต้ตอบข้อมูล"
+
+msgctxt "#31063"
+msgid "Addons"
+msgstr "ส่วนเสริม"
+
+msgctxt "#31064"
+msgid "Custom background image"
+msgstr "กำหนดภาพพื้นหลังเอง"
+
+msgctxt "#31065"
+msgid "Hide 'Mouse' warning"
+msgstr "ซ่อนคำเตือน 'เมาส์'"
+
+msgctxt "#31066"
+msgid "Cinema Exp."
+msgstr "ประสบการณ์ในโรงภาพยนตร์"
+
+msgctxt "#31067"
+msgid "Pages"
+msgstr "หน้า"
+
+msgctxt "#31068"
+msgid "View Options"
+msgstr "ดูตัวเลือก"
+
+msgctxt "#31069"
+msgid "Context Menu"
+msgstr "เมนูบริบท"
+
+msgctxt "#31070"
+msgid "Info"
+msgstr "ข้อมูล"
+
+msgctxt "#31071"
+msgid "Finishes at"
+msgstr "เสร็จสิ้นเมื่อ"
+
+msgctxt "#31072"
+msgid "Playing"
+msgstr "้เล่น"
+
+msgctxt "#31073"
+msgid "Categories"
+msgstr "หมวดหมู่"
+
+msgctxt "#31074"
+msgid "Submenu"
+msgstr "เมนูย่อย"
+
+msgctxt "#31075"
+msgid "Icon"
+msgstr "ไอคอน"
+
+msgctxt "#31076"
+msgid "Weather Fanart"
+msgstr "สภาพอากาศ แฟนอาร์ต"
+
+msgctxt "#31077"
+msgid "Trending Movies"
+msgstr "ภาพยนตร์ที่ได้รับความนิยม"
+
+msgctxt "#31078"
+msgid "In Cinemas"
+msgstr "ในโรงภาพยนตร์"
+
+msgctxt "#31079"
+msgid "Upcoming Films"
+msgstr "ภาพยนตร์ที่จะมาถึง"
+
+msgctxt "#31080"
+msgid "Popular Movies"
+msgstr "ภาพยนตร์ยอดนิยม"
+
+msgctxt "#31081"
+msgid "Top Rated Movies"
+msgstr "ภาพยนตร์ยอดนิยม"
+
+msgctxt "#31082"
+msgid "Popular Shows"
+msgstr "รายการยอดนิยม"
+
+msgctxt "#31083"
+msgid "Top Rated Shows"
+msgstr "รายการยอดนิยม"
+
+msgctxt "#31084"
+msgid "On Air Shows"
+msgstr "ออนแอร์โชว์"
+
+msgctxt "#31085"
+msgid "Airing Today"
+msgstr "ออกอากาศวันนี้"
+
+msgctxt "#31086"
+msgid "Custom 1"
+msgstr "กำหนดเอง 1"
+
+msgctxt "#31087"
+msgid "Custom 2"
+msgstr "กำหนดเอง 2"
+
+msgctxt "#31088"
+msgid "Custom 3"
+msgstr "กำหนดเอง 3"
+
+msgctxt "#31089"
+msgid "Custom 4"
+msgstr "กำหนดเอง 4"
+
+msgctxt "#31090"
+msgid "Content Loading"
+msgstr "โหลดเนื้อหา"
+
+msgctxt "#31091"
+msgid "Trending Shows"
+msgstr "รายการที่ได้รับความนิยม"
+
+msgctxt "#31092"
+msgid "No information available"
+msgstr "ไม่มีข้อมูล"
+
+msgctxt "#31093"
+msgid "Movie Hub"
+msgstr "Movie Hub"
+
+msgctxt "#31094"
+msgid "TV Hub"
+msgstr "TV Hub"
+
+msgctxt "#31095"
+msgid "Spotlight"
+msgstr "รายละเอียด"
+
+msgctxt "#31096"
+msgid "Hub items"
+msgstr "รายการฮับ"
+
+msgctxt "#31097"
+msgid "Hub widget"
+msgstr "วิดเจ็ตฮับ"
+
+msgctxt "#31098"
+msgid "Artwork"
+msgstr "งานศิลปะ"
+
+msgctxt "#31099"
+msgid "Codec"
+msgstr "ตัวแปลงสัญญาณ"
+
+msgctxt "#31100"
+msgid "Recently Added"
+msgstr "เพิ่มเร็ว ๆ นี้"
+
+msgctxt "#31101"
+msgid "Recently Played"
+msgstr "เพิ่งเล่นไป"
+
+msgctxt "#31102"
+msgid "Watch Random"
+msgstr "ดูแบบสุ่ม"
+
+msgctxt "#31103"
+msgid "Delete Settings Shortcut"
+msgstr "ทางลัดการลบการตั้งค่า"
+
+msgctxt "#31104"
+msgid "Are you sure you want to remove the settings shortcut?[CR]Please ensure that you have an alternative method of accessing settings before you remove this shortcut."
+msgstr "คุณแน่ใจหรือไม่ว่าต้องการลบทางลัดการตั้งค่า [CR] โปรดตรวจสอบให้แน่ใจว่าคุณมีวิธีอื่นในการเข้าถึงการตั้งค่าก่อนที่จะลบทางลัดนี้"
+
+msgctxt "#31105"
+msgid "Extra Info"
+msgstr "ข้อมูลพิเศษ"
+
+msgctxt "#31106"
+msgid "3D Mode"
+msgstr "โหมด 3D"
+
+msgctxt "#31107"
+msgid "Similar"
+msgstr "คล้ายกัน"
+
+msgctxt "#31108"
+msgid "Youtube"
+msgstr "ยูทูบ"
+
+msgctxt "#31109"
+msgid "provided by themoviedb.org"
+msgstr "จัดทำโดย themoviedb.org"
+
+msgctxt "#31110"
+msgid "Extras"
+msgstr "พิเศษ"
+
+msgctxt "#31111"
+msgid "Choose primary highlight color"
+msgstr "เลือกสีไฮไลต์หลัก"
+
+msgctxt "#31112"
+msgid "Choose secondary highlight color"
+msgstr "เลือกสีไฮไลต์ที่สอง"
+
+msgctxt "#31113"
+msgid "Reset colors to defaults"
+msgstr "รีเซ็ตสีเป็นค่าเริ่มต้น"
+
+msgctxt "#31114"
+msgid "Install weather fanart"
+msgstr "ติดตั้ง แฟนอาร์ต สภาพอากาศ"
+
+msgctxt "#31115"
+msgid "Show weather with clock"
+msgstr "แสดงสภาพอากาศพร้อมนาฬิกา"
+
+msgctxt "#31116"
+msgid "Animate fanart"
+msgstr "อะนิเมท แฟนอาร์ต"
+
+msgctxt "#31117"
+msgid "mins"
+msgstr "นาที"
+
+msgctxt "#31118"
+msgid "Animate artist slideshow"
+msgstr "ภาพเคลื่อนไหวสไลด์โชว์ศิลปิน"
+
+msgctxt "#31119"
+msgid "Show visualisation behind artist slideshow"
+msgstr "แสดงการสร้างภาพเบื้องหลังสไลด์โชว์ศิลปิน"
+
+msgctxt "#31120"
+msgid "Show artist slideshow"
+msgstr "แสดงสไลด์โชว์ศิลปิน"
+
+msgctxt "#31121"
+msgid "Music OSD"
+msgstr "เพลง OSD"
+
+msgctxt "#31122"
+msgid "Match header tile with highlight color"
+msgstr "จับคู่ส่วนหัวไทล์กับสีไฮไลต์"
+
+msgctxt "#31123"
+msgid "Hub"
+msgstr "Hub"
+
+msgctxt "#31124"
+msgid "Similar movies"
+msgstr "ภาพยนตร์ที่คล้ายกัน"
+
+msgctxt "#31125"
+msgid "Similar to"
+msgstr "คล้ายกับ"
+
+msgctxt "#31126"
+msgid "Colors"
+msgstr "สี"
+
+msgctxt "#31127"
+msgid "Header"
+msgstr "หัว"
+
+msgctxt "#31128"
+msgid "Color"
+msgstr "สี"
+
+msgctxt "#31129"
+msgid "Enable individual tile colors in home customisation"
+msgstr "เปิดใช้งานสีเรียงต่อกันในการปรับแต่งเมนูหลัก"
+
+msgctxt "#31130"
+msgid "items found"
+msgstr "พบรายการ"
+
+msgctxt "#31131"
+msgid "Search Options"
+msgstr "ตัวเลือกการค้นหา"
+
+msgctxt "#31132"
+msgid "by Title"
+msgstr "by Title"
+
+msgctxt "#31133"
+msgid "by Genre"
+msgstr "by Genre"
+
+msgctxt "#31134"
+msgid "by Actor"
+msgstr "by Actor"
+
+msgctxt "#31135"
+msgid "by Director"
+msgstr "by Director"
+
+msgctxt "#31136"
+msgid "by Studio"
+msgstr "by Studio"
+
+msgctxt "#31137"
+msgid "Panel list"
+msgstr "รายการแผง"
+
+msgctxt "#31138"
+msgid "Show clock"
+msgstr "แสดงนาฬิกา"
+
+msgctxt "#31139"
+msgid "Hubs"
+msgstr "Hubs"
+
+msgctxt "#31140"
+msgid "Show tile colour on unfocused tiles"
+msgstr "แสดงสีของกระเบื้องบนกระเบื้องที่ไม่โฟกัส"
+
+msgctxt "#31141"
+msgid "Info icons"
+msgstr "ไอคอนข้อมูล"
+
+msgctxt "#31142"
+msgid "Big list info"
+msgstr "ข้อมูลรายการใหญ่"
+
+msgctxt "#31143"
+msgid "Media Info 2"
+msgstr "Media Info 2"
+
+msgctxt "#31144"
+msgid "Player Controls"
+msgstr "Player Controls"
+
+msgctxt "#31145"
+msgid "Extended Info"
+msgstr "ข้อมูลเพิ่มเติม"
+
+msgctxt "#31146"
+msgid "Fanart fallback image"
+msgstr "รูปภาพทางเลือก แฟนอาร์ต"
+
+msgctxt "#31147"
+msgid "Fallback widget"
+msgstr "วิดเจ็ตทางเลือก"
+
+msgctxt "#31148"
+msgid "Media Info 3"
+msgstr "Media Info 3"
+
+msgctxt "#31149"
+msgid "Next Aired"
+msgstr "ออกอากาศต่อไป"
+
+msgctxt "#31150"
+msgid "Show widget posters"
+msgstr "แสดงโปสเตอร์วิดเจ็ต"
+
+msgctxt "#31151"
+msgid "Home tile icon"
+msgstr "Home tile icon"
+
+msgctxt "#31152"
+msgid "Home tile text"
+msgstr "Home tile text"
+
+msgctxt "#31153"
+msgid "Always"
+msgstr "เสมอ"
+
+msgctxt "#31154"
+msgid "On Up"
+msgstr "ขึ้นไป"
+
+msgctxt "#31155"
+msgid "Never"
+msgstr "ไม่เคย"
+
+msgctxt "#31156"
+msgid "Show widget discart"
+msgstr "แสดงวิดเจ็ตแยกชิ้น"
+
+msgctxt "#31157"
+msgid "Home header text"
+msgstr "Home header text"
+
+msgctxt "#31158"
+msgid "Media Center"
+msgstr "Media Center"
+
+msgctxt "#31159"
+msgid "Background overlay image"
+msgstr "ภาพซ้อนทับพื้นหลัง"
+
+msgctxt "#31160"
+msgid "Busy spinner"
+msgstr "Busy spinner"
+
+msgctxt "#31161"
+msgid "Backup skin settings"
+msgstr "สำรองการตั้งค่าสกิน"
+
+msgctxt "#31162"
+msgid "Restore skin settings from file"
+msgstr "คืนค่าการตั้งค่าสกินจากไฟล์"
+
+msgctxt "#31163"
+msgid "Gallery"
+msgstr "แกลลอรี่"
+
+msgctxt "#31164"
+msgid "Fanart list"
+msgstr "รายการ แฟนอาร์ต"
+
+msgctxt "#31165"
+msgid "Show sorting and info line headers"
+msgstr "แสดงส่วนหัวของการเรียงลำดับและข้อมูล"
+
+msgctxt "#31166"
+msgid "Individually set in customisation dialog"
+msgstr "ตั้งค่าเป็นรายบุคคลในกล่องโต้ตอบปรับแต่ง"
+
+msgctxt "#31167"
+msgid "Show unwatched count in header"
+msgstr "แสดงจำนวนที่ไม่ตรงกันในส่วนหัว"
+
+msgctxt "#31168"
+msgid "Now / Next"
+msgstr "ตอนนี้ / ถัดไป"
+
+msgctxt "#31169"
+msgid "Reset skin settings to defaults  (WARNING - This will override all skin settings)"
+msgstr "รีเซ็ตการตั้งค่าสกินเป็นค่าเริ่มต้น (คำเตือน - สิ่งนี้จะแทนที่การตั้งค่าสกินทั้งหมด)"
+
+msgctxt "#31170"
+msgid "Backup / Restore"
+msgstr "สำรอง / กู้คืน"
+
+msgctxt "#31171"
+msgid "Reload skin"
+msgstr "โหลดผิวหนังซ้ำ"
+
+msgctxt "#31172"
+msgid "Transparent home bar"
+msgstr "แถบบ้านโปร่งใส"
+
+msgctxt "#31173"
+msgid "Home bar style"
+msgstr "Home bar style"
+
+msgctxt "#31174"
+msgid "Weather icons"
+msgstr "ไอคอนสภาพอากาศ"
+
+msgctxt "#31175"
+msgid "Customise shutdown menu"
+msgstr "ปรับแต่งเมนูปิดเครื่อง"
+
+msgctxt "#31176"
+msgid "Genre icons"
+msgstr "ไอคอนประเภท"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31177"
+msgid "Automatically start fullscreen visualisation when starting playback"
+msgstr "เริ่มต้นการแสดงภาพเต็มหน้าจอโดยอัตโนมัติเมื่อเริ่มเล่น"
+
+#: /16x9/Includes_Defs.xml
+msgctxt "#31178"
+msgid "User profiles"
+msgstr "โปรไฟล์ผู้ใช้"
+
+#: /16x9/Includes_Defs.xml
+msgctxt "#31179"
+msgid "Install from repository or zip file"
+msgstr "ติดตั้งจากที่เก็บหรือไฟล์ zip"
+
+msgctxt "#31180"
+msgid "Default"
+msgstr "ค่าเริ่มต้น"
+
+msgctxt "#31181"
+msgid "Text in tiles"
+msgstr "Text in tiles"
+
+msgctxt "#31182"
+msgid "Text only"
+msgstr "ข้อความเท่านั้น"
+
+msgctxt "#31183"
+msgid "Customise shutdown menu"
+msgstr "ปรับแต่งเมนูปิดเครื่อง"
+
+msgctxt "#31184"
+msgid "Startup video or playlist"
+msgstr "วิดีโอเริ่มต้นหรือเพลย์ลิสต์"
+
+msgctxt "#31185"
+msgid "Label"
+msgstr "Label"
+
+msgctxt "#31186"
+msgid "Action"
+msgstr "Action"
+
+msgctxt "#31187"
+msgid "Background"
+msgstr "Background"
+
+msgctxt "#31188"
+msgid "None (show user background)"
+msgstr "ไม่มี (แสดงพื้นหลังผู้ใช้)"
+
+msgctxt "#31189"
+msgid "None"
+msgstr "ไม่มี"
+
+msgctxt "#31190"
+msgid "Next Episode"
+msgstr "ตอนต่อไป"
+
+msgctxt "#31191"
+msgid "Last Episode"
+msgstr "ตอนสุดท้าย"
+
+msgctxt "#31192"
+msgid "Info List"
+msgstr "รายการข้อมูล"
+
+msgctxt "#31193"
+msgid "Box Office"
+msgstr "บ็อกซ์ออฟฟิศ"
+
+msgctxt "#31194"
+msgid "Show plot for hub widgets"
+msgstr "แสดงพล็อตสำหรับวิดเจ็ตฮับ"
+
+msgctxt "#31195"
+msgid "Allow widget reloading"
+msgstr "อนุญาตให้โหลดวิดเจ็ตใหม่"
+
+msgctxt "#31196"
+msgid "Use padding around panel edges"
+msgstr "ใช้ช่องว่างรอบขอบแผง"
+
+msgctxt "#31197"
+msgid "Panels"
+msgstr "Panels"
+
+msgctxt "#31198"
+msgid "Manage Dependencies"
+msgstr "Manage Dependencies"
+
+msgctxt "#31199"
+msgid "Showcase"
+msgstr "ตู้โชว์"
+
+msgctxt "#31200"
+msgid "by"
+msgstr "โดย"
+
+msgctxt "#31201"
+msgid "on"
+msgstr "on"
+
+msgctxt "#31202"
+msgid "Sort by: Default"
+msgstr "เรียงตาม: ค่าเริ่มต้น"
+
+msgctxt "#31203"
+msgid "No Additional Details Available"
+msgstr "ไม่มีรายละเอียดเพิ่มเติมพร้อมใช้งาน"
+
+msgctxt "#31204"
+msgid "Header tile icon and label follows library content type"
+msgstr "ไอคอนส่วนหัวและป้ายกำกับเรียงตามประเภทเนื้อหาไลบรารี"
+
+msgctxt "#31205"
+msgid "Settings Level"
+msgstr "ระดับการตั้งค่า"
+
+msgctxt "#31206"
+msgid "Home Shortcuts and Widgets"
+msgstr "ทางลัดและวิดเจ็ตโฮม"
+
+msgctxt "#31207"
+msgid "Home Header"
+msgstr "Home Header"
+
+msgctxt "#31208"
+msgid "Home Bar Style"
+msgstr "Home Bar Style"
+
+msgctxt "#31209"
+msgid "Music Visualisation"
+msgstr "Music Visualisation"
+
+msgctxt "#31210"
+msgid "On Screen Display (OSD)"
+msgstr "การแสดงผลบนหน้าจอ (OSD)"
+
+msgctxt "#31211"
+msgid "Video Information"
+msgstr "ข้อมูลวิดีโอ"
+
+msgctxt "#31212"
+msgid "No Content Currently Available"
+msgstr "ไม่มีเนื้อหาในขณะนี้"
+
+msgctxt "#31213"
+msgid "Show user ratings for music albums / songs"
+msgstr "แสดงคะแนนผู้ใช้สำหรับอัลบั้มเพลง / เพลง"
+
+msgctxt "#31214"
+msgid "Show additional info labels in lists (e.g. ratings and year)"
+msgstr "แสดงป้ายกำกับข้อมูลเพิ่มเติมในรายการ (เช่นอันดับและปี)"
+
+msgctxt "#31215"
+msgid "Plain list"
+msgstr "Plain list"
+
+msgctxt "#31216"
+msgid "Video decoder"
+msgstr "ตัวถอดรหัสวิดีโอ"
+
+msgctxt "#31217"
+msgid "Pixel format"
+msgstr "รูปแบบพิกเซล"
+
+msgctxt "#31218"
+msgid "Show additional info labels with media flags (e.g. ratings and year)"
+msgstr "แสดงป้ายกำกับข้อมูลเพิ่มเติมพร้อมธงสื่อ (เช่นการให้คะแนนและปี)"
+
+msgctxt "#31219"
+msgid "Miscellaneous"
+msgstr "เบ็ดเตล็ด"
+
+msgctxt "#31220"
+msgid "Info List 2"
+msgstr "Info List 2"
+
+msgctxt "#31221"
+msgid "Square List"
+msgstr "Square List"
+
+msgctxt "#31222"
+msgid "Enable / disable views"
+msgstr "เปิด / ปิดการใช้งานมุมมอง"
+
+msgctxt "#31223"
+msgid "Poster List"
+msgstr "รายชื่อโปสเตอร์"
+
+msgctxt "#31224"
+msgid "Show additional dialog shadows"
+msgstr "แสดงเงาไดอะล็อกเพิ่มเติม"
+
+msgctxt "#31225"
+msgid "Use original Eminence v1 style side labels and arrows"
+msgstr "ใช้ป้ายกำกับและลูกศรด้านสไตล์ Eminence v1 ดั้งเดิม"
+
+msgctxt "#31226"
+msgid "Lock view"
+msgstr "ล็อคมุมมอง"
+
+msgctxt "#31227"
+msgid "Enable viewtype locking to content type"
+msgstr "เปิดใช้งานการล็อกประเภทมุมมองเป็นประเภทเนื้อหา"
+
+msgctxt "#31228"
+msgid "Select view mode"
+msgstr "เลือกโหมดดู"
+
+msgctxt "#31229"
+msgid "Lock this viewtype to content type"
+msgstr "ล็อคประเภทมุมมองนี้เป็นประเภทเนื้อหา"
+
+msgctxt "#31230"
+msgid "Medium icons"
+msgstr "ไอคอนขนาดกลาง"
+
+msgctxt "#31231"
+msgid "Use extra fanart if available"
+msgstr "ใช้ แฟนอาร์ต เสริมถ้ามี"
+
+msgctxt "#31232"
+msgid "Unlock View"
+msgstr "ปลดล็อกมุมมอง"
+
+msgctxt "#31233"
+msgid "This view mode is currently locked to the content type"
+msgstr "โหมดมุมมองนี้ถูกล็อคอยู่กับประเภทเนื้อหา"
+
+msgctxt "#31234"
+msgid "Do you wish to unlock it and set a new view mode?"
+msgstr "คุณต้องการปลดล็อกและตั้งค่าโหมดมุมมองใหม่หรือไม่"
+
+msgctxt "#31235"
+msgid "Fanart fade opacity (default is 90%)"
+msgstr "แฟนอาร์ต ความทึบ (ค่าเริ่มต้นคือ 90%)"
+
+#: /16x9/Includes_Defs.xml
+msgctxt "#31236"
+msgid "PVR"
+msgstr "PVR"
+
+#: /16x9/Includes_Defs.xml
+msgctxt "#31237"
+msgid "View system events"
+msgstr "ดูกิจกรรมของระบบ"
+
+#: /16x9/Includes_Defs.xml
+msgctxt "#31238"
+msgid "Event logs"
+msgstr "Event logs"
+
+#: /16x9/EventLog.xml
+msgctxt "#31239"
+msgid "Events Log"
+msgstr "Events Log"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31240"
+msgid "Switch viewtype artwork and list positions"
+msgstr "สลับงานศิลป์ประเภทรายการและตำแหน่งรายการ"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31241"
+msgid "Hide home menu when widgets are focused"
+msgstr "ซ่อนเมนูหลักเมื่อเน้นวิดเจ็ต"
+
+#: /16x9/Custom_Store_1131.xml
+msgctxt "#31242"
+msgid "Recently viewed movies"
+msgstr "ภาพยนตร์ที่ดูล่าสุด"
+
+#: /16x9/Includes_Label.xml
+msgctxt "#31243"
+msgid "Landscape"
+msgstr "Landscape"
+
+#: /16x9/Includes_Label.xml
+msgctxt "#31244"
+msgid "Posters"
+msgstr "โปสเตอร์"
+
+#: /16x9/Includes_Defs.xml
+msgctxt "#31245"
+msgid "Widget view mode"
+msgstr "โหมดมุมมอง Widget"
+
+#: /16x9/Includes_Defs.xml
+msgctxt "#31246"
+msgid "Showcase widget"
+msgstr "วิดเจ็ตตู้โชว์"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31247"
+msgid "Display showcase widget when pressing down on menu items without submenus"
+msgstr "แสดงวิดเจ็ตเมื่อกดลงที่รายการเมนูโดยไม่ต้องใช้เมนูย่อย"
+
+#: /16x9/Custom_Dialog_ShowcaseSettings_1130.xml
+msgctxt "#31248"
+msgid "Showcase Widgets"
+msgstr "ตู้โชว์ตู้โชว์"
+
+msgctxt "#31249"
+msgid "Special Features"
+msgstr "คุณสมบัติพิเศษ"
+
+#: /16x9/script-skinshortcuts.xml
+msgctxt "#31250"
+msgid "Widget"
+msgstr "Widget"
+
+#: /16x9/SkinSettings.xml
+msgctxt "#31251"
+msgid "Customise showcase widgets"
+msgstr "ปรับแต่งตู้โชว์วิดเจ็ต"
